@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
- - 🔭 I'm currently a data analyst/postdoctoral researcher at ETH Zürich & Uni. Bern in Switzerland. I am a numerical ecologist (community ecologist, macroecologist, you name it!) specialized in marine plankton ecology and trait-based approaches. 
+ - 🔭 I'm currently a data analyst/postdoctoral researcher at ETH Zürich & Uni. Bern in Switzerland. I am a numerical ecologist (or a community ecologist, or a macroecologist, you name it!) specialized in the functional ecology of marine plankton and trait-based approaches. 
  - 🔭 I study how Biodiversity changes on Earth, across different systems and at different scales. I want to help better understand the role of Biodiversity in delivering ecosystem functions and services.
  - 🌱 I’m also currently learning German. It's not easy.
  - 👯 I’m looking to collaborate on projects promoting/achieving Biodiversity conservation on land or in the oceans.
